@@ -40,7 +40,7 @@ h2{
 
 .icon{
     display: block;
-    background-image: url(resources/phone.webp);
+    background-image: url("./resources/phone.webp");
     background-size: cover;
     width: 64px;
     height: 110px;
