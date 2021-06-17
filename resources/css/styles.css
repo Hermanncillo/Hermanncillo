@@ -26,3 +26,36 @@ h2{
     width: 403.99px;
     margin: 0 auto;
 }
+
+.photo h2{
+    color: gray; 
+    font-size: 21px; ;
+}
+
+.photo img{
+    display: block;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.icon{
+    display: block;
+    background-image: url(/resources/phone.webp);
+    background-size: cover;
+    width: 64px;
+    height: 110px;
+    margin: 20px;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+.end h2{
+    text-decoration: underline;
+}
+
+.end .grey{
+    color:grey;
+    text-decoration: none;
+    text-align: right;
+    margin-right: 20px;
+}
